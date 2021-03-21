@@ -1,0 +1,18 @@
+.searched-info{
+    border: 1px solid gray;
+    border-radius:5px;
+    background-color: lightgray;
+    text-align: center;
+    width:90%;
+}
+.searched-info img{
+    width:50%;
+}
+.booking-btn {
+    border: 1px solid transparent;
+    padding:10px;
+    width:90%;
+    border-radius: 1em;
+    font-weight: 700;
+    transition: all .5s ease-in-out;
+}

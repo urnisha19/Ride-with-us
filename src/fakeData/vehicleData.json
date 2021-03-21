@@ -3,27 +3,27 @@
     "vehicle_name": "Bike",
     "img": "https://i.ibb.co/R0Jb43P/Frame.png",
     "description": "velit donec diam neque vestibulum eget vulputate ut ultrices vel augue vestibulum ante ipsum primis in faucibus orci luctus et",
-    "passenger":"",
-    "cost":""
+    "passenger":"2",
+    "cost":"$30"
   }, {
     "id": 2,
     "vehicle_name": "Bus",
     "img": "https://i.ibb.co/BNYtb1C/Frame-1.png",
     "description": "nunc proin at turpis a pede posuere nonummy integer non velit donec diam neque vestibulum eget vulputate ut ultrices",
-    "passenger":"",
-    "cost":""
+    "passenger":"30",
+    "cost":"$10"
   }, {
     "id": 3,
     "vehicle_name": "Car",
     "img": "https://i.ibb.co/3hZ5WjN/Frame-2.png",
     "description": "montes nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum neque aenean auctor gravida sem praesent id massa id",
-    "passenger":"",
-    "cost":""
+    "passenger":"4",
+    "cost":"$60"
   }, {
     "id": 4,
     "vehicle_name": "Metro-Rail",
     "img": "https://i.ibb.co/xHsFCpH/Group.png",
     "description": "nulla neque libero convallis eget eleifend luctus ultricies eu nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum",
-    "passenger":"",
-    "cost":""
+    "passenger":"100",
+    "cost":"$5"
   }]
