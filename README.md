@@ -7,7 +7,7 @@ Hosting URL: https://track-ride-go.web.app
 3.Authenticated users can choose our vehicles and details to ride with.<br />
 4.Included Google map so that user can see more about their destination.<br />
 
-***Created with:**
+**Created with:**
 
 1.React.js<br />
 2.React Router<br />
