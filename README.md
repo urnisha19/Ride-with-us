@@ -1,11 +1,14 @@
-Ride With Us
+Hosting URL: https://track-ride-go.web.app
+
+**Ride With Us**
 
 1.Developed an application with booking options to ride here and there with our vehicles.
 2.Integrated firebase authentication with Google sign-in, Facebook login and custom authentication also.
 3.Authenticated users can choose our vehicles and details to ride with.
 4.Included Google map so that user can see more about their destination.
 
-Created with:
+***Created with:**
+
 1.React.js
 2.React Router
 3.React-Bootstrap
