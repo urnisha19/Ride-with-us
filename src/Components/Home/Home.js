@@ -16,7 +16,7 @@ const Home = () => {
                 <Row>
                     {
                         vehicles.map(vehicle =>
-                            <div className="col-md-3">
+                            <div className="col-md-3 my-3">
                                 <Vehicle key={vehicle.id} vehicle={vehicle} /></div>)
                     }
                 </Row>
